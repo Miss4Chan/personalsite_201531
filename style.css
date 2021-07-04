@@ -141,6 +141,27 @@ body
     font-size: 16px;
     font-weight: 700;
 }
+#sign1_1
+{
+    height: 250px;
+    width: 1200px;
+    position: absolute;
+    top: 74px;
+    left: 82px;
+    color: white;
+    line-height: 27px;
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    text-shadow: 1.5px 1px black;
+    font-size: 18px;
+    font-weight: 700;
+}
+#sign1_1 p
+{
+    position: absolute;
+    left: 15px;
+    top: -10px;
+}
 .sign1 p
 {
     position: absolute;
