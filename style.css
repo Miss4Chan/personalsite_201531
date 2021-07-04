@@ -324,6 +324,18 @@ transition: 0.4s;
     text-align: center;
     position: absolute;
     bottom: -14px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 0.5px 0.5px black;
+}
+.footer p a
+{
+    text-decoration: none;
+    color: white;
+}
+.footer p a:hover
+{
+    color: lightskyblue;
 }
 .nav ul li a
 {
